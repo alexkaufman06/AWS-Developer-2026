@@ -72,3 +72,4 @@ Documentation of my learnings on [Udemy's AWS Certified Developer Associate cour
 
 ## Deeper Dive Notes:
   * [IAM & AWS CLI](./notes/iam-and-aws-cli.md)
+  * [EC2 Fundamentatls](./notes/ec2-fundamentals.md)
